@@ -3,7 +3,7 @@
 - [Book I](#book-I) - letters 01-12
 - [Book II](#book-II) - letters 14-
 
-## Book I
+# Book I
 
 #### Letter 1 (Book I.1)
 _In answer to Lucilius, who has declared himself determined to make the best use of his time._
@@ -41,7 +41,7 @@ _On physical blushing and moral bashfulness. Seneca argues that there are physic
 #### Letter 12 (Book I.12)
 _Seneca uses a visit to his childhood home to illustrate how the  decay in his country villa, the decline of plane trees he himself planted, and finally the ageing of his childhood playmate have convinced him of his advanced age. This leads to consideration (•6) of each day as a fraction of a larger unit of natural time and the span of life, and the proper way to look forward to death, not unlike the maudlin Pacuvius (•8) who staged a performance of his own funeral every evening._
 
-## Book II
+# Book II
 
 #### Letter 14 (Book II.2)
 
