@@ -1,9 +1,9 @@
 # Seneca - Selected Letters
 
-- [Book I](#book-I) - letters 01-12
-- [Book II](#book-II) - letters 14-
+- [Book I](#book-i) - letters 01-12
+- [Book II](#book-ii) - letters 14-
 
-# Book I
+## Book I
 
 #### Letter 1 (Book I.1)
 _In answer to Lucilius, who has declared himself determined to make the best use of his time._
