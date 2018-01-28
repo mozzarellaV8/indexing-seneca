@@ -1,6 +1,6 @@
 # Seneca - Selected Letters
 
-- [Introduction](#index-intro) - description of - and motivation for -  this repository
+- [Motivation](#motivation) - description of & motivation for: this.
 - [Book I](#book-i) - letters 01-12
 - [Book II](#book-ii) - letters 14-21
 - [Notes](#notes) - works cited
@@ -9,12 +9,12 @@
 
 Peter Paul Rubens, _[**_Bust of Pseudo-Seneca_**](https://www.metmuseum.org/art/collection/search/459195)_. 1600-1626, Robert Lehman Collection, Metropolitan Museum of Art.
 
-## Index Intro
-I first came across Seneca through the work of Nassim Nicholas Taleb - specifically his book Antifragile. There might be a popular conception of Stoic philosophers as unfeeling people, unmoved by the events of life. I've found myself more interested in Taleb's characterization of Stoics as 'Buddhists with an attitude problem'<sup>[1](#notes)</sup>. 
+## Motivation
+I first came across Seneca through the work of Nassim Nicholas Taleb - specifically his book Antifragile. There might be a popular conception of Stoic philosophers as unfeeling people, unmoved by the events of life. I've found myself more interested in Taleb's characterization of Stoics as 'Buddhists with an attitude problem'<sup>[[1]](#notes)</sup>. 
 
-Approximately 100 of Seneca's letters to his friend Lucilius are collected in **Seneca - _Selected Letters_**, as translated by Elaine Fantham. What follows are transcriptions of the introductions to each letter. Fantham's translation was chosen because of her fresh approach to the classics and view of 'history as a living thing'<sup>[2](#notes)</sup>, in addition to her expertise on the subject. 
+Approximately 100 of Seneca's letters to his friend Lucilius are collected in **Seneca - _Selected Letters_**, as translated by Elaine Fantham. What follows are transcriptions of the introductions to each letter. Fantham's translation was chosen because of her fresh approach to the classics and view of 'history as a living thing'<sup>[[2]](#notes)</sup>, in addition to her expertise on the subject. 
 
-This 'indexing' exists as a live experiment in reading and study. I'd come across a primer on HOW TO STUDY<sup>[3](#notes)</sup> on Hacker News a while ago, and it recently resurfaced again on 'popular' page of Pinboard. There was advice on reading texts quickly the first time through, and then more studiously the second. The idea is to get an overview of the writing first, and then delve into unpacking the details. 
+This 'indexing' exists as a live experiment in reading and study. I'd come across a primer on _HOW TO STUDY_<sup>[[3]](#notes)</sup> on Hacker News a while ago, and it recently resurfaced again on 'popular' page of Pinboard. There was advice on reading texts quickly the first time through, and then more studiously the second. The idea is to get an overview of the writing first, and then delve into unpacking the details. 
 
 I thought I'd try that advice out here. Perhaps down the line there will be a tool or website built that accesses each letter and corresponding notes in a novel way.
 
@@ -87,8 +87,16 @@ _Seneca congratulates Lucilius on his moral progress, and warns him against the 
 _Seneca uses the unspecified anxieties of Lucilius to advise him about the triviality of external concerns and importance of being at peace with himself. This letter marks Seneca's adherence to the two traditions of philosophical letters of advice (Epicurus) and personal correspondence (Cicero), before moving on to Epicurus' precepts about reducing desires (••7-9) and praising the spirit of austerity symbolized by both the inscription and keeper of Epicurus' garden._
 
 ## Notes
-<sup>[1]</sup> Commencement speech given at American University in Beirut. Youtube link, approximately halfway through.
+**<sup>[[1]](#motivation)</sup> _“Taleb Delivers Commencement Speech at American University of Beirut 2016.”_ YouTube, Manish Sharma, 9 June 2016, [youtu.be/Fzmr3urk28I?t=3m36s](youtu.be/Fzmr3urk28I?t=3m40s).**
 
-<sup>[2]</sup> Obit for Elaine Fantham, Guardian
+**Taleb:** _"...self-respect, on the other hand, is robust. That's the approach of the Stoic school, which is, incidentally, a Phoenician movement. So someone wonders, 'Who are the Stoics?' - I'd say they're Buddhists, with an attitude problem."_
 
-<sup>[3]</sup> HOW TO STUDY
+**<sup>[[2]](#motivation)</sup> Allemang, John. _“Elaine Fantham: Scholar was a 'rock star' of the classics world.”_ The Globe and Mail, Phillip Crawley, 24 Mar. 2017, [The Globe and Mail](www.theglobeandmail.com/news/world/elaine-fantham-scholar-was-a-rock-star-of-the-classics-world/article31303986/).**
+
+**Allemang on Fantham:** _"The wartime bombing of Liverpool affected her deeply. Studying the fall of Troy, she couldn't help but see Britain under siege. Her talent for treating the past as a living thing began with her astonishment that she could experience ancient hexameters as if they were written for her."_
+
+**<sup>[[3]](#motivation)</sup> Rappaport, William J. _[“HOW TO STUDY.”](www.cse.buffalo.edu//~rapaport/howtostudy.html#exception)_ Department of Computer Science and Engineering, Department of Philosophy, and Center for Cognitive Science State University of New York at Buffalo, 25 Jan. 2018, Last Update: Thursday, 25 January 2018.**
+
+**Rappaport:** _"If the text is a work of literature (a story, novel, play, poem, etc.), it is often best to read it once all the way through without stopping, just as you would read something for fun, so that you get to know what it's about and can appreciate it as a work of literature...Then you can use the slow and active reading techniques for a second (or third, or fourth, or ...) reading when you are studying the text._
+
+_Actually, even for non-fiction, it can be useful to read the text through once, quickly, to get an overview, perhaps making notes if something strikes you, and then doing the slow and active reading techniques when you are studying the text."_
