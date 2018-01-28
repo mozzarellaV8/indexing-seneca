@@ -5,6 +5,8 @@
 - [Book II](#book-ii) - letters 14-21
 - [Notes](#notes) - works cited
 
+![Bust of Psuedo-Seneca by Peter Paul Rubens](_images/seneca-rubens-met.jpg) [_Bust of Pseudo-Seneca_](https://www.metmuseum.org/art/collection/search/459195), Peter Paul Rubens, 1600-1626. Robert Lehman Collection, Metropolitan Museum of Art.
+
 ## Index Intro
 I first came across Seneca through the work of Nassim Nicholas Taleb - specifically his book Antifragile. There might be a popular conception of Stoic philosophers as unfeeling people, unmoved by the events of life. I've found myself more interested in Taleb's characterization of Stoics as 'Buddhists with an attitude problem'<sup>[1](#notes)</sup>. 
 
