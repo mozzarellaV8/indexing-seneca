@@ -1,13 +1,13 @@
 # Seneca - Selected Letters
 
-- [Motivation](#motivation) - description of & motivation for: this.
+<img src="_images/seneca-rubens-met.jpg" alt="Bust of Psuedo-Seneca by Peter Paul Rubens" style="width: 350px;"/>
+
+_[**_Bust of Pseudo-Seneca_**](https://www.metmuseum.org/art/collection/search/459195)_, Peter Paul Rubens, 1600-1626. Robert Lehman Collection, Metropolitan Museum of Art.
+
+- [Motivation](#motivation) - description of & motivation for this repository.
 - [Book I](#book-i) - letters 01-12
 - [Book II](#book-ii) - letters 14-21
 - [Notes](#notes) - works cited
-
-<img src="_images/seneca-rubens-met.jpg" alt="Bust of Psuedo-Seneca by Peter Paul Rubens" style="width: 350px;"/>
-
-Peter Paul Rubens, _[**_Bust of Pseudo-Seneca_**](https://www.metmuseum.org/art/collection/search/459195)_. 1600-1626, Robert Lehman Collection, Metropolitan Museum of Art.
 
 ## Motivation
 I first came across Seneca through the work of Nassim Nicholas Taleb - specifically his book Antifragile. There might be a popular conception of Stoic philosophers as unfeeling people, unmoved by the events of life. I've found myself more interested in Taleb's characterization of Stoics as 'Buddhists with an attitude problem'<sup>[[1]](#notes)</sup>. 
@@ -51,7 +51,7 @@ _On self-sufficiency and the value of friendship. Seneca returns to the theme of
 _On the potential harm from bad company and the need to address only honest prayers to God even away from other men._
 
 #### Letter 11 (Book I.11)
-_On physical blushing and moral bashfulness. Seneca argues that there are physical reactions a man cannot control and should not be blamed for. In •8 he uses his 'Epicurean'_ envoi _to change to a different theme; the recommendation to imagine one's actions under the observation of a respected and virtuous man._
+_On physical blushing and moral bashfulness. Seneca argues that there are physical reactions a man cannot control and should not be blamed for. In •8 he uses his 'Epicurean'_ **envoi**<sup>[[4]](#notes)</sup> _to change to a different theme; the recommendation to imagine one's actions under the observation of a respected and virtuous man._
 
 #### Letter 12 (Book I.12)
 _Seneca uses a visit to his childhood home to illustrate how the  decay in his country villa, the decline of plane trees he himself planted, and finally the ageing of his childhood playmate have convinced him of his advanced age. This leads to consideration (•6) of each day as a fraction of a larger unit of natural time and the span of life, and the proper way to look forward to death, not unlike the maudlin Pacuvius (•8) who staged a performance of his own funeral every evening._
@@ -60,7 +60,7 @@ _Seneca uses a visit to his childhood home to illustrate how the  decay in his c
 
 #### Letter 14 (Book II.2)
 
-__Seneca discusses human concern for one's own body, and fear of suffering physical pain, especially pain imposed upon us by an oppressor or tyrant figure. (By listing as potential oppressor the common people or a faction of the senate before mentioning a single autocrat, Seneca comes as near as he dare approach to his own situation under the power of Nero.)_
+_Seneca discusses human concern for one's own body, and fear of suffering physical pain, especially pain imposed upon us by an oppressor or tyrant figure. (By listing as potential oppressor the common people or a faction of the senate before mentioning a single autocrat, Seneca comes as near as he dare approach to his own situation under the power of Nero.)_
 
 _The wise man will never provoke the anger of the crowd or the powerful individual, yet (•12) Cato in his wisdom opposed Pompey and Caesar both during ad before the outbreak of civil war._
 
@@ -100,3 +100,5 @@ _Seneca uses the unspecified anxieties of Lucilius to advise him about the trivi
 **Rappaport:** _"If the text is a work of literature (a story, novel, play, poem, etc.), it is often best to read it once all the way through without stopping, just as you would read something for fun, so that you get to know what it's about and can appreciate it as a work of literature...Then you can use the slow and active reading techniques for a second (or third, or fourth, or ...) reading when you are studying the text._
 
 _Actually, even for non-fiction, it can be useful to read the text through once, quickly, to get an overview, perhaps making notes if something strikes you, and then doing the slow and active reading techniques when you are studying the text."_
+
+**<sup>[[4]](#book-i)</sup> Definition of _envoi_**: a short stanza concluding a ballade, or (_literary_) an author's concluding words. via [Google search](https://www.google.com/search?q=Dictionary#dobs=envoi).
