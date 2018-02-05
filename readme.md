@@ -86,6 +86,31 @@ _Seneca congratulates Lucilius on his moral progress, and warns him against the 
 
 _Seneca uses the unspecified anxieties of Lucilius to advise him about the triviality of external concerns and importance of being at peace with himself. This letter marks Seneca's adherence to the two traditions of philosophical letters of advice (Epicurus) and personal correspondence (Cicero), before moving on to Epicurus' precepts about reducing desires (••7-9) and praising the spirit of austerity symbolized by both the inscription and keeper of Epicurus' garden._
 
+#### Letter 24 (Book III.3)
+
+_Seneca advises Lucilius not to waste his peace of mind worrying about everyday anxieties, or feating loss and death. This letter (the longest in the correspondence up to this point) is one of his most impassioned, maximizing the rhetoric of death in order to inspire fearless courage. Seneca uses both the standard Stoic examples of constancy and the standard Epicurean denunciation of false beliefs about life after death to reinforce his exhortations._
+
+#### Letter 26 (Book III.6)
+
+_On old age and its loss of powers as a gentle approach towards death. More thoughts about facing death (to be continued in letter 27)._
+
+#### Letter 27 (Book III.9)
+
+_Seneca acknowledges that while prescribing behaviour to Lucilius he is merely a fellow patient, talking to his friend as he would to himself. They should focus on lasting goods, particularly the mind's own good, virtue. Virtue cannot be delegated, as one ignorant man tried to delegate his literary culture to his slaves. Men must practice virtue for themselves._
+
+#### Letter 28 (Book III.7)
+
+_Lucilius has supposedly complained that travelling abroad has not relieved his discontent. Seneca tells him that his mental condition is not dependent on his circumstances; no place is alien, and yet nowhere is so disturbing as his regular haunt, the Forum. In a partial answer to the problem posed in letter 14, he now claims the wise man will choose peace rather than public involvement._
+
+#### Letter 31 (Book IV.2)
+
+_This is the first of several letters focused on the recurring theme of defining what is 'the good' and how it is related to what is honourable. Seneca touches incidentally on the 'vanity of human wishes', a theme which will be central to letter 60. Then he offers various definitions of the good: 'knowledge of life', 'an even tenor of life and knowledge of things human and divine', and 'a good and upright spirit'._
+
+
+
+
+
+
 ## Notes
 **<sup>[[1]](#motivation)</sup> _“Taleb Delivers Commencement Speech at American University of Beirut 2016.”_ YouTube, Manish Sharma, 9 June 2016, [youtu.be/Fzmr3urk28I?t=3m36s](youtu.be/Fzmr3urk28I?t=3m40s).**
 
