@@ -16,7 +16,7 @@ Approximately 100 of Seneca's letters to his friend Lucilius are collected in **
 
 This 'indexing' exists as a live experiment in reading and study. I'd come across a primer on _HOW TO STUDY_<sup>[[3]](#notes)</sup> on Hacker News a while ago, and it recently resurfaced again on 'popular' page of Pinboard. There was advice on reading texts quickly the first time through, and then more studiously the second. The idea is to get an overview of the writing first, and then delve into unpacking the details. 
 
-I thought I'd try that advice out here. Perhaps down the line there will be a tool or website built that accesses each letter and corresponding notes in a novel way.
+I thought I'd try that advice out here. Perhaps down the line there will be a tool or website built that accesses each letter and corresponding notes in a novel way - maybe an index of recurring themes, or idiosyncrasies of Seneca's writing itself. 
 
 ## Book I
 
