@@ -10,13 +10,13 @@ _[**_Bust of Pseudo-Seneca_**](https://www.metmuseum.org/art/collection/search/4
 - [Notes](#notes) - works cited
 
 ## Motivation
-I first came across Seneca through the work of Nassim Nicholas Taleb - specifically his book Antifragile. There might be a popular conception of Stoic philosophers as unfeeling people, unmoved by the events of life. I've found myself more interested in Taleb's characterization of Stoics as 'Buddhists with an attitude problem'<sup>[[1]](#notes)</sup>. 
+I first came across Seneca through the work of Nassim Nicholas Taleb - specifically his book _Antifragile: Things that Gain from Disorder_. There might be a popular conception of Stoic philosophers as unfeeling people, unmoved by the events of life. I've found myself more interested in Taleb's characterization of Stoics as _**'Buddhists with an attitude problem'**_<sup>[[1]](#notes)</sup>. 
 
 Approximately 100 of Seneca's letters to his friend Lucilius are collected in **Seneca - _Selected Letters_**, as translated by Elaine Fantham. What follows are transcriptions of the introductions to each letter. Fantham's translation was chosen because of her fresh approach to the classics and view of 'history as a living thing'<sup>[[2]](#notes)</sup>, in addition to her expertise on the subject. 
 
-This 'indexing' exists as a live experiment in reading and study. I'd come across a primer on _HOW TO STUDY_<sup>[[3]](#notes)</sup> on Hacker News a while ago, and it recently resurfaced again on 'popular' page of Pinboard. There was advice on reading texts quickly the first time through, and then more studiously the second. The idea is to get an overview of the writing first, and then delve into unpacking the details. 
+This 'indexing' exists as a live experiment in reading and study. I'd come across a primer on **_HOW TO STUDY_**<sup>[[3]](#notes)</sup> on Hacker News a while ago, and it recently resurfaced again on 'popular' page of Pinboard. There was advice on reading texts quickly the first time through, and then more studiously the second. The idea is to get an overview of the writing first, and then delve into unpacking the details. 
 
-I thought I'd try that advice out here. Perhaps down the line there will be a tool or website built that accesses each letter and corresponding notes in a novel way - maybe an index of recurring themes, or idiosyncrasies of Seneca's writing itself. 
+I thought I'd try that advice out here. Perhaps down the line there will be a tool or website built that accesses each letter and corresponding notes in a novel way - maybe an index of _recurring themes_, or _idiosyncrasies of Seneca's writing itself_. 
 
 ## Book I
 
