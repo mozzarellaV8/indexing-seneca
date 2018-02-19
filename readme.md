@@ -126,23 +126,23 @@ A comparison of the philosopher's oath of service with that of gladiators.
 
 Lucilius has asked Seneca to write more frequently.
 
-### Letter 39 (Book IV.10)
+#### Letter 39 (Book IV.10)
 
 Seneca answers Lucilius' request for a compendium of recommendations, but sends him to the ethical writers: his noble nature will respond to moral incentives and not be suberged in vice like men ruined by success. 
 
-### Letter 40 (Book IV.II)
+#### Letter 40 (Book IV.II)
 
 Seneca believed in the importance of style because of its power to arouse and convince an audience for philosophical as well as rhetorical purposes. Here he argues about the appropriate delivery for teaching philosophy. Starting from Lucilius's supposed comment on the eloquence of the showpiece lecturer Seapion (more sophist than philosopher), Seneca reviews the factors determining the slower pace proper to philosophers' speech as opposed to speakers in the lawcourts and declaimers, then contrasts Greek with Roman eloquence and Cicero with contemporary orators.
 
-### Letter 41 (Book IV.12)
+#### Letter 41 (Book IV.12)
 
 On the divine origin of reason in the human spirit. Seneca compares the sacred power within a man to our perception of sacredness when we contemplate mysterious and beautiful elements in natural landscape. As for divine inspiration or spirit, it is natural and cannot be simulated by adornment.
 
-### Letter 44 (Book V.3)
+#### Letter 44 (Book V.3)
 
 On the difference between social and moral standing. Seneca reproaches Lucilius for feeling socially inferior as a mere knight, and compares the moral nobility and humble social origin of Socrates and other great philosophers. References to movement between slavery and free status point ahead to the direct discussion coming in letter 47. 
 
-### Letter 46 (Book V.5)
+#### _Letter 46 (Book V.5)_
 
 Seneca praises the book Lucilius has written and sent to him (but lets us know nothing about its content.)
 
