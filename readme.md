@@ -142,7 +142,7 @@ On the divine origin of reason in the human spirit. Seneca compares the sacred p
 
 On the difference between social and moral standing. Seneca reproaches Lucilius for feeling socially inferior as a mere knight, and compares the moral nobility and humble social origin of Socrates and other great philosophers. References to movement between slavery and free status point ahead to the direct discussion coming in letter 47. 
 
-#### **Letter 46 (Book V.5)**
+#### Letter 46 (Book V.5)
 
 Seneca praises the book Lucilius has written and sent to him (but lets us know nothing about its content.)
 
