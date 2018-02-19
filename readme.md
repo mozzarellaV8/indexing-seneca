@@ -10,13 +10,13 @@ _[**_Bust of Pseudo-Seneca_**](https://www.metmuseum.org/art/collection/search/4
 - [Notes](#notes) - works cited
 
 ## Motivation
-I first came across Seneca through the work of Nassim Nicholas Taleb - specifically his book _Antifragile: Things that Gain from Disorder_. There might be a popular conception of Stoic philosophers as unfeeling people, unmoved by the events of life. I've found myself more interested in Taleb's characterization of Stoics as _**'Buddhists with an attitude problem'**_<sup>[[1]](#notes)</sup>. 
+I first came across Seneca through the work of Nassim Nicholas Taleb - specifically his book Antifragile. There might be a popular conception of Stoic philosophers as unfeeling people, unmoved by the events of life. I've found myself more interested in Taleb's characterization of Stoics as 'Buddhists with an attitude problem'<sup>[[1]](#notes)</sup>. 
 
 Approximately 100 of Seneca's letters to his friend Lucilius are collected in **Seneca - _Selected Letters_**, as translated by Elaine Fantham. What follows are transcriptions of the introductions to each letter. Fantham's translation was chosen because of her fresh approach to the classics and view of 'history as a living thing'<sup>[[2]](#notes)</sup>, in addition to her expertise on the subject. 
 
-This 'indexing' exists as a live experiment in reading and study. I'd come across a primer on **_HOW TO STUDY_**<sup>[[3]](#notes)</sup> on Hacker News a while ago, and it recently resurfaced again on 'popular' page of Pinboard. There was advice on reading texts quickly the first time through, and then more studiously the second. The idea is to get an overview of the writing first, and then delve into unpacking the details. 
+This 'indexing' exists as a live experiment in reading and study. I'd come across a primer on _HOW TO STUDY_<sup>[[3]](#notes)</sup> on Hacker News a while ago, and it recently resurfaced again on 'popular' page of Pinboard. There was advice on reading texts quickly the first time through, and then more studiously the second. The idea is to get an overview of the writing first, and then delve into unpacking the details. 
 
-I thought I'd try that advice out here. Perhaps down the line there will be a tool or website built that accesses each letter and corresponding notes in a novel way - maybe an index of _recurring themes_, or _idiosyncrasies of Seneca's writing itself_. 
+I thought I'd try that advice out here. Perhaps down the line there will be a tool or website built that accesses each letter and corresponding notes in a novel way.
 
 ## Book I
 
@@ -105,6 +105,16 @@ _Lucilius has supposedly complained that travelling abroad has not relieved his 
 #### Letter 31 (Book IV.2)
 
 _This is the first of several letters focused on the recurring theme of defining what is 'the good' and how it is related to what is honourable. Seneca touches incidentally on the 'vanity of human wishes', a theme which will be central to letter 60. Then he offers various definitions of the good: 'knowledge of life', 'an even tenor of life and knowledge of things human and divine', and 'a good and upright spirit'._
+
+#### Letter 33 (Book IV.4)
+
+_Lucilius has reproached Seneca because he has not quoted any sayings of Epicurus since letter 29. Now he justifies this at two levels: first by contrasting the nuggets of moral instruction offered by Epicurus and his followers with the continuous argumentation of Zeno and his followers; and secondly by criticizing the habit of recying on other men's sayings instead of working out one's own moral precepts._
+
+#### Letter 35 (Book IV.6)
+
+_On the difference between loving and being a true friend. Seneca cites his age and Lucilius' mortality as motives for urgency in developing his love and hastening their reunion._
+
+
 
 
 
