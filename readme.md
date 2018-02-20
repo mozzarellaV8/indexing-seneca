@@ -86,6 +86,8 @@ _Seneca congratulates Lucilius on his moral progress, and warns him against the 
 
 _Seneca uses the unspecified anxieties of Lucilius to advise him about the triviality of external concerns and importance of being at peace with himself. This letter marks Seneca's adherence to the two traditions of philosophical letters of advice (Epicurus) and personal correspondence (Cicero), before moving on to Epicurus' precepts about reducing desires (••7-9) and praising the spirit of austerity symbolized by both the inscription and keeper of Epicurus' garden._
 
+## Book III
+
 #### Letter 24 (Book III.3)
 
 _Seneca advises Lucilius not to waste his peace of mind worrying about everyday anxieties, or feating loss and death. This letter (the longest in the correspondence up to this point) is one of his most impassioned, maximizing the rhetoric of death in order to inspire fearless courage. Seneca uses both the standard Stoic examples of constancy and the standard Epicurean denunciation of false beliefs about life after death to reinforce his exhortations._
@@ -101,6 +103,8 @@ _Seneca acknowledges that while prescribing behaviour to Lucilius he is merely a
 #### Letter 28 (Book III.7)
 
 _Lucilius has supposedly complained that travelling abroad has not relieved his discontent. Seneca tells him that his mental condition is not dependent on his circumstances; no place is alien, and yet nowhere is so disturbing as his regular haunt, the Forum. In a partial answer to the problem posed in letter 14, he now claims the wise man will choose peace rather than public involvement._
+
+## Book IV
 
 #### Letter 31 (Book IV.2)
 
@@ -137,6 +141,8 @@ Seneca believed in the importance of style because of its power to arouse and co
 #### Letter 41 (Book IV.12)
 
 On the divine origin of reason in the human spirit. Seneca compares the sacred power within a man to our perception of sacredness when we contemplate mysterious and beautiful elements in natural landscape. As for divine inspiration or spirit, it is natural and cannot be simulated by adornment.
+
+## Book V
 
 #### Letter 44 (Book V.3)
 
