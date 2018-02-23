@@ -206,7 +206,7 @@ _Actually, even for non-fiction, it can be useful to read the text through once,
 
 **<sup>[[5]](#book-v)</sup> Definition of _syllogistic_**: 
 
-- 1. Logic. an argument the conclusion of which is supported by two premises, of which one (major premise) contains the term (major term) that is the predicate of the conclusion, and the other (minor premise) contains the term (minor term) that is the subject of the conclusion; common to both premises is a term (middle term) that is excluded from the conclusion. A typical form is “All A is C; all B is A; therefore all B is C.”.
-- 2. deductive reasoning.
-- 3. an extremely subtle, sophisticated, or deceptive argument.
+1. Logic. an argument the conclusion of which is supported by two premises, of which one (major premise) contains the term (major term) that is the predicate of the conclusion, and the other (minor premise) contains the term (minor term) that is the subject of the conclusion; common to both premises is a term (middle term) that is excluded from the conclusion. A typical form is “All A is C; all B is A; therefore all B is C.”.
+2. deductive reasoning.
+3. an extremely subtle, sophisticated, or deceptive argument.
 via [dictionary.com](http://www.dictionary.com/browse/syllogism)
