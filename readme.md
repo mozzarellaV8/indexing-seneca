@@ -152,6 +152,40 @@ On the difference between social and moral standing. Seneca reproaches Lucilius 
 
 Seneca praises the book Lucilius has written and sent to him (but lets us know nothing about its content.)
 
+#### Letter 47 (Book V.6)
+
+On the proper treatment of slaves, and how to reform the cruel and insulting behaviour of bad masters at dinner. Seneca's chief arguments are that slavery is the product of chance, which any man can suffer, and that treating slaves with some respect both wins their goodwill and brings moral improvement to master and slave.
+
+#### Letter 48 (Book V.7)
+
+The matter on which Lucilius has requested advice is left unclear: it is merely an opening gambit to enable Seneca to discuss the proper relationship between friends. From ([•6]()), however, Seneca is concerned with rejecting syllogistic<sup>[[5]](#notes)</sup> argument, and his addressee is no longer Lucilius but an imagined philosopher. Unfortunately, several key phrases in ([••8-9]()) are damaged beyond restoration.
+
+#### Letter 49 (Book V.8)
+
+Seneca is now in Campania, the favourite holiday resort of many elite Romans, and Lucilius' birthplace (he came from Pompeii). Remembered time seems short, but actual time is very short ([•4]()), too short to waste on syllogistic puzzles; instead we must make th emost of our life and approacghing death by striving to perfect our reason.
+
+#### Letter 51 (Book V.10)
+
+Seneca's main theme is the avoidance of corrupting resorts, like Baiae, which he claims to have left after less than a day.
+
+## Book VI
+
+#### Letter 53 (Book VI.1)
+
+Seneca starts by reporting his own (rather desperate) reaction to seasickness on a short trip in a private boat from Naples (Parthenope) to Puteoli; after twice making the steersman change his course, Seneca dived out fo the boat and swam to land. He is now somewhat amazed (as are we) at his own foolhardiness, but passes quickly ([••5-7]()) from consideration of physical sickness to ailments of the mind.
+
+#### Letter 54 (Book VI.2)
+
+On Seneca's experience of asthmatic seizures, from which he profits by learning to anticipate death.
+
+#### Letter 55 (Book VI.3) 
+
+Seneca uses his experienc e in being carried past the luxurious retirement villa of Servilius Vatia to distinguish between a retirement that is death-in-life and proper retirement applied to study and moral self-development.
+
+#### Letter 56 (Book VI.4)
+
+Seneca has tested his powers of concentration by taking lodging over a public bath-house, and describes its echoing cacophony.
+
 
 ## Notes
 **<sup>[[1]](#motivation)</sup> _“Taleb Delivers Commencement Speech at American University of Beirut 2016.”_ YouTube, Manish Sharma, 9 June 2016, [youtu.be/Fzmr3urk28I?t=3m36s](youtu.be/Fzmr3urk28I?t=3m40s).**
@@ -169,3 +203,10 @@ Seneca praises the book Lucilius has written and sent to him (but lets us know n
 _Actually, even for non-fiction, it can be useful to read the text through once, quickly, to get an overview, perhaps making notes if something strikes you, and then doing the slow and active reading techniques when you are studying the text."_
 
 **<sup>[[4]](#book-i)</sup> Definition of _envoi_**: a short stanza concluding a ballade, or (_literary_) an author's concluding words. via [Google search](https://www.google.com/search?q=Dictionary#dobs=envoi).
+
+**<sup>[[5]](#book-v)</sup> Definition of _syllogistic_**: 
+
+- 1. Logic. an argument the conclusion of which is supported by two premises, of which one (major premise) contains the term (major term) that is the predicate of the conclusion, and the other (minor premise) contains the term (minor term) that is the subject of the conclusion; common to both premises is a term (middle term) that is excluded from the conclusion. A typical form is “All A is C; all B is A; therefore all B is C.”.
+- 2. deductive reasoning.
+- 3. an extremely subtle, sophisticated, or deceptive argument.
+via [dictionary.com](http://www.dictionary.com/browse/syllogism)
