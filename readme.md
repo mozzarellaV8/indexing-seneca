@@ -7,6 +7,10 @@ _[**_Bust of Pseudo-Seneca_**](https://www.metmuseum.org/art/collection/search/4
 - [Motivation](#motivation) - description of & motivation for this repository.
 - [Book I](#book-i) - letters 01-12
 - [Book II](#book-ii) - letters 14-21
+- [Book III](#book-iii)
+- [Book IV](#book-iv)
+- [Book V](#book-v)
+- [Book VI](#book-vi) 
 - [Notes](#notes) - works cited
 
 ## Motivation
