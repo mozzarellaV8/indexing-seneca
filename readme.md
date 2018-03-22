@@ -190,6 +190,11 @@ Seneca uses his experienc e in being carried past the luxurious retirement villa
 
 Seneca has tested his powers of concentration by taking lodging over a public bath-house, and describes its echoing cacophony.
 
+#### Letter 57 (Book VI.4)
+
+Again Seneca describes an extraordinary physical ordeal, perhaps a combination of whirling sandstorm and the kind of claustrophobia engendered by tunnels. He discusses other forms of phobia and distinguishes them from ostensibly reasonable fears, none of which are really justified.
+
+
 
 ## Notes
 **<sup>[[1]](#motivation)</sup> _“Taleb Delivers Commencement Speech at American University of Beirut 2016.”_ YouTube, Manish Sharma, 9 June 2016, [youtu.be/Fzmr3urk28I?t=3m36s](youtu.be/Fzmr3urk28I?t=3m40s).**
