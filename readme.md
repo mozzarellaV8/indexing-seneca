@@ -136,7 +136,7 @@ _Lucilius has asked Seneca to write more frequently._
 
 #### Letter 39 (Book IV.10)
 
-_Seneca answers Lucilius' request for a compendium of recommendations, but sends him to the ethical writers: his noble nature will respond to moral incentives and not be suberged in vice like men ruined by success. _
+_Seneca answers Lucilius' request for a compendium of recommendations, but sends him to the ethical writers: his noble nature will respond to moral incentives and not be suberged in vice like men ruined by success._
 
 #### Letter 40 (Book IV.II)
 
