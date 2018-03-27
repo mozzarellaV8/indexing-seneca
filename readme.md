@@ -128,71 +128,79 @@ _A friend of Lucilius wants to retire from public service and is meeting critici
 
 #### Letter 37 (Book IV.8)
 
-A comparison of the philosopher's oath of service with that of gladiators.
+**_A comparison of the philosopher's oath of service with that of gladiators._**
 
 #### Letter 38 (Book IV.9)
 
-Lucilius has asked Seneca to write more frequently.
+_Lucilius has asked Seneca to write more frequently._
 
 #### Letter 39 (Book IV.10)
 
-Seneca answers Lucilius' request for a compendium of recommendations, but sends him to the ethical writers: his noble nature will respond to moral incentives and not be suberged in vice like men ruined by success. 
+_Seneca answers Lucilius' request for a compendium of recommendations, but sends him to the ethical writers: his noble nature will respond to moral incentives and not be suberged in vice like men ruined by success. _
 
 #### Letter 40 (Book IV.II)
 
-Seneca believed in the importance of style because of its power to arouse and convince an audience for philosophical as well as rhetorical purposes. Here he argues about the appropriate delivery for teaching philosophy. Starting from Lucilius's supposed comment on the eloquence of the showpiece lecturer Seapion (more sophist than philosopher), Seneca reviews the factors determining the slower pace proper to philosophers' speech as opposed to speakers in the lawcourts and declaimers, then contrasts Greek with Roman eloquence and Cicero with contemporary orators.
+_Seneca believed in the importance of style because of its power to arouse and convince an audience for philosophical as well as rhetorical purposes. Here he argues about the appropriate delivery for teaching philosophy. Starting from Lucilius's supposed comment on the eloquence of the showpiece lecturer Seapion (more sophist than philosopher), Seneca reviews the factors determining the slower pace proper to philosophers' speech as opposed to speakers in the lawcourts and declaimers, then contrasts Greek with Roman eloquence and Cicero with contemporary orators._
 
 #### Letter 41 (Book IV.12)
 
-On the divine origin of reason in the human spirit. Seneca compares the sacred power within a man to our perception of sacredness when we contemplate mysterious and beautiful elements in natural landscape. As for divine inspiration or spirit, it is natural and cannot be simulated by adornment.
-
+_On the divine origin of reason in the human spirit. Seneca compares the sacred power within a man to our perception of sacredness when we contemplate mysterious and beautiful elements in natural landscape. As for divine inspiration or spirit, it is natural and cannot be simulated by adornment.
+_
 ## Book V
 
 #### Letter 44 (Book V.3)
 
-On the difference between social and moral standing. Seneca reproaches Lucilius for feeling socially inferior as a mere knight, and compares the moral nobility and humble social origin of Socrates and other great philosophers. References to movement between slavery and free status point ahead to the direct discussion coming in letter 47. 
+_On the difference between social and moral standing. Seneca reproaches Lucilius for feeling socially inferior as a mere knight, and compares the moral nobility and humble social origin of Socrates and other great philosophers. References to movement between slavery and free status point ahead to the direct discussion coming in letter 47. _
 
 #### Letter 46 (Book V.5)
 
-Seneca praises the book Lucilius has written and sent to him (but lets us know nothing about its content.)
+_Seneca praises the book Lucilius has written and sent to him (but lets us know nothing about its content.)_
 
 #### Letter 47 (Book V.6)
 
-On the proper treatment of slaves, and how to reform the cruel and insulting behaviour of bad masters at dinner. Seneca's chief arguments are that slavery is the product of chance, which any man can suffer, and that treating slaves with some respect both wins their goodwill and brings moral improvement to master and slave.
+_On the proper treatment of slaves, and how to reform the cruel and insulting behaviour of bad masters at dinner. Seneca's chief arguments are that slavery is the product of chance, which any man can suffer, and that treating slaves with some respect both wins their goodwill and brings moral improvement to master and slave._
 
 #### Letter 48 (Book V.7)
 
-The matter on which Lucilius has requested advice is left unclear: it is merely an opening gambit to enable Seneca to discuss the proper relationship between friends. From ([•6]()), however, Seneca is concerned with rejecting syllogistic<sup>[[5]](#notes)</sup> argument, and his addressee is no longer Lucilius but an imagined philosopher. Unfortunately, several key phrases in ([••8-9]()) are damaged beyond restoration.
+_The matter on which Lucilius has requested advice is left unclear: it is merely an opening gambit to enable Seneca to discuss the proper relationship between friends. From ([•6]()), however, Seneca is concerned with rejecting syllogistic<sup>[[5]](#notes)</sup> argument, and his addressee is no longer Lucilius but an imagined philosopher. Unfortunately, several key phrases in ([••8-9]()) are damaged beyond restoration._
 
 #### Letter 49 (Book V.8)
 
-Seneca is now in Campania, the favourite holiday resort of many elite Romans, and Lucilius' birthplace (he came from Pompeii). Remembered time seems short, but actual time is very short ([•4]()), too short to waste on syllogistic puzzles; instead we must make th emost of our life and approacghing death by striving to perfect our reason.
+_Seneca is now in Campania, the favourite holiday resort of many elite Romans, and Lucilius' birthplace (he came from Pompeii). Remembered time seems short, but actual time is very short ([•4]()), too short to waste on syllogistic puzzles; instead we must make th emost of our life and approacghing death by striving to perfect our reason._
 
 #### Letter 51 (Book V.10)
 
-Seneca's main theme is the avoidance of corrupting resorts, like Baiae, which he claims to have left after less than a day.
+_Seneca's main theme is the avoidance of corrupting resorts, like Baiae, which he claims to have left after less than a day._
 
 ## Book VI
 
 #### Letter 53 (Book VI.1)
 
-Seneca starts by reporting his own (rather desperate) reaction to seasickness on a short trip in a private boat from Naples (Parthenope) to Puteoli; after twice making the steersman change his course, Seneca dived out fo the boat and swam to land. He is now somewhat amazed (as are we) at his own foolhardiness, but passes quickly ([••5-7]()) from consideration of physical sickness to ailments of the mind.
+_Seneca starts by reporting his own (rather desperate) reaction to seasickness on a short trip in a private boat from Naples (Parthenope) to Puteoli; after twice making the steersman change his course, Seneca dived out fo the boat and swam to land. He is now somewhat amazed (as are we) at his own foolhardiness, but passes quickly ([••5-7]()) from consideration of physical sickness to ailments of the mind._
 
 #### Letter 54 (Book VI.2)
 
-On Seneca's experience of asthmatic seizures, from which he profits by learning to anticipate death.
+_On Seneca's experience of asthmatic seizures, from which he profits by learning to anticipate death._
 
 #### Letter 55 (Book VI.3) 
 
-Seneca uses his experienc e in being carried past the luxurious retirement villa of Servilius Vatia to distinguish between a retirement that is death-in-life and proper retirement applied to study and moral self-development.
+_Seneca uses his experience in being carried past the luxurious retirement villa of Servilius Vatia to distinguish between a retirement that is death-in-life and proper retirement applied to study and moral self-development._
 
 #### Letter 56 (Book VI.4)
 
-Seneca has tested his powers of concentration by taking lodging over a public bath-house, and describes its echoing cacophony.
+**_Seneca has tested his powers of concentration by taking lodging over a public bath-house, and describes its echoing cacophony._**
 
 #### Letter 57 (Book VI.4)
 
-Again Seneca describes an extraordinary physical ordeal, perhaps a combination of whirling sandstorm and the kind of claustrophobia engendered by tunnels. He discusses other forms of phobia and distinguishes them from ostensibly reasonable fears, none of which are really justified.
+_Again Seneca describes an extraordinary physical ordeal, perhaps a combination of whirling sandstorm and the kind of claustrophobia engendered by tunnels. He discusses other forms of phobia and distinguishes them from ostensibly reasonable fears, none of which are really justified._
+
+#### Letter 59 (Book VI.7)
+
+_Like some later letters (63 and 67, this starts from a conventional phrase - 'it was a great pleasure to read your letter' - and uses it to discriminate between the popular use of pleasure (voluptas) and Stoic values, which regard pleasure as a harmful emotion but value instead **joy** (gaudium) as a genuine response to real moreal success. As for Lucilius's letter, Seneca speaks only of its forceful style, giving no idea of its content. (We may compare his treatment of Lucilius' book in letter 46.) This is profoundly frustrating for us as readers if Seneca is referring to actual compositions by Lucilius, but if this is merely a fiction to give the correspondence authenticity, it keeps the focus on the nature of writing itself as a philosophical or ethical exercise._
+
+_The main body of the letter moves from Lucilius' use of didactic analogies to a military analogy used by Sextius, and compares the stupidity of an ill-led force to the folly of the individual who confuses the false pleasure of external and contingent success with the lasting joy that comes only from the achievement of virtue and wisdom._
+
+- **_...the false pleasure of external and contingent success_**
 
 
 
